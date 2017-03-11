@@ -1,2 +1,2 @@
-# kino
-Theatre managment
+# kino - graduation project
+Cinema workers managemnt
