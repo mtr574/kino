@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShowPlaylist>
+	<Id>urn:uuid:b1cfe99e-0b12-41f4-9dbf-89f8cc849a61</Id>
+	<ShowTitleText>The_Gunman 2D S</ShowTitleText>
+	<AnnotationText>The Gunman 2D S</AnnotationText>
+	<IssueDate>2015-03-18T22:30:38Z</IssueDate>
+	<Creator>Doremi Labs -- TMS 1.4.11</Creator>
+	<ContentVersion>
+		<Id>urn:uuid:32d3724d-3e66-45ce-9680-d063311a6d2f</Id>
+		<LabelText>urn:uuid:32d3724d-3e66-45ce-9680-d063311a6d2f</LabelText>
+	</ContentVersion>
+	<TriggerCueList>
+		<TriggerCue>
+			<Id>urn:uuid:35e48c72-27c9-48fc-a224-6013518ff33d</Id>
+			<TriggerName>Adv End</TriggerName>
+			<Action>Play</Action>
+			<Scope>urn:uuid:19fa3b8d-0051-4dde-812d-e6709c849876</Scope>
+		</TriggerCue>
+	</TriggerCueList>
+	<EventList>
+		<Event>
+			<Id>urn:uuid:19fa3b8d-0051-4dde-812d-e6709c849876</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:bd58bc6d-b99f-46e0-81a2-c99a332a06d1</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>360</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:c180ee3d-877b-4043-8aff-bb7da906533f</Id>
+					<Action>Start Adv</Action>
+					<Offset Kind="Start">24</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:f249d1e2-2583-43c3-bb99-e4bedb94ed03</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:37f8396d-2dbb-462a-8b69-16eda8bff954</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>192</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:0640e4ab-ae90-44a9-bca4-786492dd7c51</Id>
+					<Action>Start</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:7a44816f-a8b2-4419-b7d0-31e170d13506</Id>
+					<Action>Volume 5.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:4907f90d-dff7-4a55-8b4f-0967b5b19339</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:cc2b2c36-b564-47a1-913f-0081d15b38e9</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:625315b2-c7b1-42f0-8fa5-645efaf5c489</Id>
+						<CompositionPlaylistId>urn:uuid:1a7e137f-ee5f-456a-8b5c-82504cf1b37d</CompositionPlaylistId>
+						<AnnotationText>HitmanAgent47_TLR-1_S_EN-he_IL_51_2K_TCF_20150212_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3467</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:6f3316ba-17dd-49eb-ba7c-4c6407fee1d5</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:107dc857-f8cf-4342-b729-bee44ab75053</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:394da821-1f2d-4ee5-92e9-f9842b3bef81</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:33bf0001-985b-4db3-b87f-335c9a5c83c2</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:2ed87763-92e9-40d4-b869-60f1f3b918ae</Id>
+						<CompositionPlaylistId>urn:uuid:0be8f795-5c41-47e9-b442-e1ae42037d04</CompositionPlaylistId>
+						<AnnotationText>Furious-7_TLR-B_F_EN-he_IL_51_2K_UP_20150212_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3514</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:4887ae31-bd80-4163-b24c-f93da98aee12</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:7a6ac35d-dc21-4199-ba55-aa89ab8a94c3</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:e0a14a97-46a5-4b46-9b16-28807a6da74b</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:88709370-8f5a-4d3f-a229-9a6bd6bb2543</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:6e275a3c-6751-483e-a197-272d992e9742</Id>
+						<CompositionPlaylistId>urn:uuid:5cba5093-61c5-4cc1-b251-9f5a87252fde</CompositionPlaylistId>
+						<AnnotationText>Tomorrowland_TLR-B-EMEA_S-220_EN-HE_IL_51_2K_DI_20150304_MPS_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3312</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:edc63fc1-0961-4585-b969-aa5f75e01de9</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:fb3ba1ec-8f4b-47d0-b37a-fbe9918ebfff</Id>
+						<CompositionPlaylistId>urn:uuid:1a64cea9-6c69-47be-93ee-f1b600586736</CompositionPlaylistId>
+						<AnnotationText>AvengersUltron_TLR-D_S_EN-HE_INT_51_2K_DI_20150302_TDC_IOP</AnnotationText>
+						<IntrinsicDuration>3034</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:ff313c7a-4378-4b49-8961-b3902d591a18</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:20d795d6-903c-4f3d-b9ee-2b22893cc68c</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:8105f71b-d522-4c13-925f-538d0a6bbd05</Id>
+					<Action>Back Lights Off</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:9b52752b-3c04-418f-a6cf-ad2686b9f203</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:ddc02d37-2304-4253-8d38-d8a2ad1d051b</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:25e96bcb-ad59-4dd1-a71c-5a83e88be07e</Id>
+						<CompositionPlaylistId>urn:uuid:abb0cc8d-b50d-4f6b-9f54-10dce6f5e709</CompositionPlaylistId>
+						<AnnotationText>Forum Film</AnnotationText>
+						<IntrinsicDuration>325</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:7c02e6fa-7f32-4ee0-a55a-cbda076331f4</Id>
+					<Action>Volume 7.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:52ae8fd8-eb51-4798-8b9a-93a3ed48cacf</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:7caffa56-1818-4ee4-8438-2ae1c445cbec</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:be65d804-870c-484d-a92a-5161ee82a849</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:5d98e80f-e380-4d30-8a24-ededd4541aa8</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:02547fa8-83ea-4502-bc22-c47cbec7a0a0</Id>
+						<CompositionPlaylistId>urn:uuid:aeb3f454-a8fc-4109-b45e-97733d77ec21</CompositionPlaylistId>
+						<AnnotationText>TheGunman_FTR_S_EN-HE_IL_51_2K_20150220_TEF_IOP_OV</AnnotationText>
+						<IntrinsicDuration>165617</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:e053549c-6787-45cf-9a37-c3218c5ce24c</Id>
+					<Action>Back Lights On</Action>
+					<Offset Kind="End">9048</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:5060927c-c890-4bf3-a962-a0805c21948b</Id>
+					<Action>Stop</Action>
+					<Offset Kind="End">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+	</EventList>
+</ShowPlaylist>

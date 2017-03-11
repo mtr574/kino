@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShowPlaylist>
+	<Id>urn:uuid:1aa15437-768e-4623-9ff2-7b34bcd775ba</Id>
+	<ShowTitleText>Chappie 2D S</ShowTitleText>
+	<AnnotationText>Chappie 2D S</AnnotationText>
+	<IssueDate>2015-03-18T22:33:47Z</IssueDate>
+	<Creator>Doremi Labs -- TMS 1.4.11</Creator>
+	<ContentVersion>
+		<Id>urn:uuid:498b294c-cc2b-4eaf-957a-a260270cbc23</Id>
+		<LabelText>urn:uuid:498b294c-cc2b-4eaf-957a-a260270cbc23</LabelText>
+	</ContentVersion>
+	<TriggerCueList>
+		<TriggerCue>
+			<Id>urn:uuid:d58fd16e-d41c-459a-9cd2-e4767fcfbdef</Id>
+			<TriggerName>Adv End</TriggerName>
+			<Action>Play</Action>
+			<Scope>urn:uuid:3e83fed5-4e49-4ae8-820f-e4de7348dfec</Scope>
+		</TriggerCue>
+	</TriggerCueList>
+	<EventList>
+		<Event>
+			<Id>urn:uuid:3e83fed5-4e49-4ae8-820f-e4de7348dfec</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:3917447c-9878-412f-8658-f7ecd6dfad04</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>360</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:7e9525a0-cbb1-4b89-9bb0-d40a59d61fc2</Id>
+					<Action>Start Adv</Action>
+					<Offset Kind="Start">24</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:68051e79-1f33-497a-99b7-1dc66b561c65</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:ce10816d-9489-4f14-b6dc-f3025ef92cbe</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>192</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:96f9b17c-f629-4b6b-9ef3-6846f9a6059c</Id>
+					<Action>Start</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:81da699a-0455-40df-9a4f-12743df4cd3b</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:93765e88-f4f5-4d51-aecb-d3e2fcba700e</Id>
+					<Action>Volume 5.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:eeeeaf86-88a6-4c0a-8dff-564e299a7a11</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:7d9ff6de-45bb-4fd9-9340-ed282d881f8f</Id>
+						<CompositionPlaylistId>urn:uuid:5e400b7e-b01e-4a23-a772-202cc6a11d3b</CompositionPlaylistId>
+						<AnnotationText>MadMaxFuryRoad_TLR-F2-2D_S_EN-he_IL_51_2K_WR_20141202_EKN_OV</AnnotationText>
+						<IntrinsicDuration>3436</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:122aa0e4-cd6f-40e7-9c26-74737442f3b3</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:97d5295f-affb-452c-a540-7d625627ea17</Id>
+						<CompositionPlaylistId>urn:uuid:1a64cea9-6c69-47be-93ee-f1b600586736</CompositionPlaylistId>
+						<AnnotationText>AvengersUltron_TLR-D_S_EN-HE_INT_51_2K_DI_20150302_TDC_IOP</AnnotationText>
+						<IntrinsicDuration>3034</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:9e8a035a-f177-4210-8a0a-b87bd8e33cf9</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:e1c4cbf3-9e73-4f9d-b78b-49f184990c66</Id>
+						<CompositionPlaylistId>urn:uuid:4e7030fe-5e8c-4923-8626-ef4d32c6ea60</CompositionPlaylistId>
+						<AnnotationText>MallCop2_TLR-A_S_EN-he_IL_51_2K_SPE_20150212_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>2984</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:3114261f-3f5b-4ae6-b88a-7abe318ee9de</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:4a46ad56-572c-4509-b52b-0f9263927cd1</Id>
+						<CompositionPlaylistId>urn:uuid:5cba5093-61c5-4cc1-b251-9f5a87252fde</CompositionPlaylistId>
+						<AnnotationText>Tomorrowland_TLR-B-EMEA_S-220_EN-HE_IL_51_2K_DI_20150304_MPS_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3312</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:b7529240-a519-48fe-a2ec-ba336ad3fcea</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:a85e2517-62ae-4afa-9bf9-f41bffd53d8b</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:22b7f92b-99ca-4a62-bfb0-7609c2597fcf</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:f99a2173-1eca-4a28-bd94-fa37338d0c88</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:a538615d-0944-4adb-b86e-0aaf29c626ff</Id>
+						<CompositionPlaylistId>urn:uuid:abb0cc8d-b50d-4f6b-9f54-10dce6f5e709</CompositionPlaylistId>
+						<AnnotationText>Forum Film</AnnotationText>
+						<IntrinsicDuration>325</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:cec5e07c-c7c0-440b-aabb-c9b88eba6c74</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:dca2a1c3-c383-4e30-bf77-dd07e5568428</Id>
+						<CompositionPlaylistId>urn:uuid:81038515-deaf-4bfd-81b7-f534a053f4ff</CompositionPlaylistId>
+						<AnnotationText>MATALON-XSN_F_EN-HE_51_2K_MTL_20110920_MOD_OV</AnnotationText>
+						<IntrinsicDuration>491</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:f56b8a80-675e-433e-a778-4f7ecc6d4725</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:ad43d753-843c-48f9-82be-26d8cbee4f4c</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:e9c6f9a6-0364-4e52-9e2d-e4b9de18e6fd</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:6f744abe-8f38-40f0-9547-4a166422a07c</Id>
+					<Action>Volume 7.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:8d65064c-28a0-44fa-9376-6b94a15a8f25</Id>
+					<Action>Back Lights Off</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:e01d5629-f42a-4e30-9f94-c20e869e9183</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:f7811702-360c-4ba1-953e-fa006f78e75f</Id>
+						<CompositionPlaylistId>urn:uuid:1869e655-8226-4773-a37a-8f9c15513bc4</CompositionPlaylistId>
+						<AnnotationText>Chappie_FTR-2-2K-PNG_S_EN-HE_IL_51-Dbox_4K_SPE_20150224_DUK_IOP_VF</AnnotationText>
+						<IntrinsicDuration>173027</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:d995fa09-6870-4948-a20a-03fbcdec64eb</Id>
+					<Action>Back Lights On</Action>
+					<Offset Kind="End">10416</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:fa9329f8-bd83-4fb0-aea1-60fd215e12b2</Id>
+					<Action>Stop</Action>
+					<Offset Kind="End">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+	</EventList>
+</ShowPlaylist>

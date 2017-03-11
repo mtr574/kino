@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShowPlaylist>
+	<Id>urn:uuid:863be312-00e4-4f8c-a639-128f79770bd6</Id>
+	<ShowTitleText>Cinderella ENG 2D S</ShowTitleText>
+	<AnnotationText>Cinderella ENG 2D S</AnnotationText>
+	<IssueDate>2015-03-21T17:41:14Z</IssueDate>
+	<Creator>Doremi Labs -- TMS 1.4.11</Creator>
+	<ContentVersion>
+		<Id>urn:uuid:a0578e61-f008-48fd-b776-6ac9c5c5009f</Id>
+		<LabelText>urn:uuid:a0578e61-f008-48fd-b776-6ac9c5c5009f</LabelText>
+	</ContentVersion>
+	<TriggerCueList>
+		<TriggerCue>
+			<Id>urn:uuid:b98f9fc3-6f39-492e-9b8d-1e49aee3de6d</Id>
+			<TriggerName>Adv End</TriggerName>
+			<Action>Play</Action>
+			<Scope>urn:uuid:9b408cbe-1444-4d35-a53e-d45b4c75c869</Scope>
+		</TriggerCue>
+	</TriggerCueList>
+	<EventList>
+		<Event>
+			<Id>urn:uuid:9b408cbe-1444-4d35-a53e-d45b4c75c869</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:3bab7c2c-1536-4c61-94c1-29b1ca1ad282</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>360</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:09b32d4b-daa3-4951-8b06-643553e374c7</Id>
+					<Action>Start Adv</Action>
+					<Offset Kind="Start">24</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:f3f51a39-fcba-4896-81b0-d11e55c4569a</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:c594ad0e-4d33-4775-ba3a-e68dd1b36510</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>192</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:5c26304e-f848-4ba6-94a5-9a420506973b</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:a2f41fcb-d51a-401d-8eaa-22f84aa4231b</Id>
+					<Action>Start</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:5b42c50d-3402-4850-b6ab-17aaa084e7af</Id>
+					<Action>Volume 5.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:d1b0a558-69f7-474a-97bf-f7b62a7000f4</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:e3c2ecfc-4ef5-4074-9014-9b4616639e95</Id>
+						<CompositionPlaylistId>urn:uuid:fcc81d3c-ba85-4028-a97d-60f82b45fa7c</CompositionPlaylistId>
+						<AnnotationText>Peanuts_TLR-D-2D_S_EN-he_IL_51_2K_TCF_20140317_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>1336</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:1f01fa25-b5ed-4573-8c2d-cd3ec9d6e10d</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:323f78dd-4612-4089-97c8-cabdd71a9ec1</Id>
+						<CompositionPlaylistId>urn:uuid:637fa999-2aa8-43c7-aada-ebfab035c49c</CompositionPlaylistId>
+						<AnnotationText>SHAUNTHESHEEP_TLR-2D-TEASER_F_EN-HE_51_2K_20140616_ELR_OV</AnnotationText>
+						<IntrinsicDuration>1379</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:8c9dfefc-a6f5-4119-9b17-560918b9af47</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:078a7906-99e4-4617-8427-3bb916d50a4b</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:9cd8bea5-61c8-421e-93b1-69dfe0addecb</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:507a2402-c849-456a-a783-6c22a677bdf9</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:1ba5ad8b-bcbe-47b6-9919-a10dc44e00ee</Id>
+						<CompositionPlaylistId>urn:uuid:536ecf08-556b-421a-8417-f3e13cfa810d</CompositionPlaylistId>
+						<AnnotationText>InsideOut_TLR-B-2D_S_EN-HE_IL_51_2K_DI_20141223_MPS_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3099</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:d1d73cc0-3d71-4488-8770-3eb9b0ddc050</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:cb428dd4-c1ff-45f0-8ae9-2073682685b1</Id>
+						<CompositionPlaylistId>urn:uuid:5cba5093-61c5-4cc1-b251-9f5a87252fde</CompositionPlaylistId>
+						<AnnotationText>Tomorrowland_TLR-B-EMEA_S-220_EN-HE_IL_51_2K_DI_20150304_MPS_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3312</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:c9a1e9fd-c9c2-46e6-bc59-4ccda0ee22f7</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:9a2ecc36-3327-4d96-b984-5964a37db67f</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:b9fa94af-0367-45d0-97a4-542dd1623a22</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:89ee9149-1afa-4342-ab8f-1858d4704323</Id>
+					<Action>Back Lights Off</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:f9ca3ce7-4746-4e47-bfd2-655aafdd8f01</Id>
+					<Action>Volume 6.5</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:382b130b-9f9b-4ccf-a059-e51c9dff06f5</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:fafea9ae-d570-4ea8-bd3d-e6894c21040d</Id>
+						<CompositionPlaylistId>urn:uuid:abb0cc8d-b50d-4f6b-9f54-10dce6f5e709</CompositionPlaylistId>
+						<AnnotationText>Forum Film</AnnotationText>
+						<IntrinsicDuration>325</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:4372cdda-cde0-4ff8-adeb-07d77c28469e</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:21759dda-7967-46cb-b2ca-c62342ea3a3b</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:386bae4b-001b-4d32-a503-b3289aa0df78</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:8fc9c114-88b9-4f26-b0fa-307725271e67</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:b11d6b52-fd1d-4482-a14d-f67c1afb044c</Id>
+						<CompositionPlaylistId>urn:uuid:3d0fcc92-5406-4a24-bebe-b32342af4b88</CompositionPlaylistId>
+						<AnnotationText>CinderellaWshr_FTR-1_S_EN-HE_IL_51_2K_DI_20150302_DUK_IOP_VF</AnnotationText>
+						<IntrinsicDuration>162952</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:d9703cbb-3ac0-4e61-81ba-dba84ffb8b6b</Id>
+					<Action>Back Lights On</Action>
+					<Offset Kind="End">8904</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:7cf828fd-edb4-45d4-a551-c9def8039a4d</Id>
+					<Action>Stop</Action>
+					<Offset Kind="End">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+	</EventList>
+</ShowPlaylist>

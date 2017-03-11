@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShowPlaylist>
+	<Id>urn:uuid:cfd9c0c0-15b7-490d-b374-d3c7f2ec31ed</Id>
+	<ShowTitleText>Woman_In_Gold 2D S</ShowTitleText>
+	<AnnotationText>Woman In Gold 2D S</AnnotationText>
+	<IssueDate>2015-04-02T07:36:47Z</IssueDate>
+	<Creator>Doremi Labs -- TMS 1.4.11</Creator>
+	<ContentVersion>
+		<Id>urn:uuid:d973d780-e673-4ef6-8a3e-dced0c336da8</Id>
+		<LabelText>urn:uuid:d973d780-e673-4ef6-8a3e-dced0c336da8</LabelText>
+	</ContentVersion>
+	<TriggerCueList>
+		<TriggerCue>
+			<Id>urn:uuid:125d7a22-b203-47ba-ba65-d3672cef2965</Id>
+			<TriggerName>Adv End</TriggerName>
+			<Action>Play</Action>
+			<Scope>urn:uuid:43ae7d37-b5c3-482e-a1a0-2d2664513e44</Scope>
+		</TriggerCue>
+	</TriggerCueList>
+	<EventList>
+		<Event>
+			<Id>urn:uuid:43ae7d37-b5c3-482e-a1a0-2d2664513e44</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:93b3dd99-eaf4-488e-8d55-2a820d313078</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>360</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:04a65635-e504-4228-aa2f-9bdbd1f6e52f</Id>
+					<Action>Start Adv</Action>
+					<Offset Kind="Start">24</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:3fdfb9f4-2257-4931-8a88-57d5247d5d04</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:ab353670-9f79-43f2-951a-ef2a5ca18f63</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>192</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:fd938743-6b80-4a95-8552-c77406b55e09</Id>
+					<Action>Start</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:525e99e5-08a5-4551-a65c-9bc69afb8cac</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:14433a56-4832-4a9a-a2fd-2aa48b77cd72</Id>
+					<Action>Volume 5.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:bbbbeda1-22bf-409e-8bb5-d303211471d9</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:87f6f293-0ff3-4d6c-b8f5-74a7d328fe10</Id>
+						<CompositionPlaylistId>urn:uuid:28a2ddbf-3766-4404-82c1-85c128f56231</CompositionPlaylistId>
+						<AnnotationText>Spy_TLR-7_S_EN-he_IL_51_2K_TCF_20150323_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3404</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:7a51122f-3dd1-4fe9-9336-41252474848f</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:55353e79-2d86-4d0e-b6a3-0899d28b0387</Id>
+						<CompositionPlaylistId>urn:uuid:5cba5093-61c5-4cc1-b251-9f5a87252fde</CompositionPlaylistId>
+						<AnnotationText>Tomorrowland_TLR-B-EMEA_S-220_EN-HE_IL_51_2K_DI_20150304_MPS_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3312</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:ae70b268-4ebf-406c-b53c-26931d61351f</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:12fb97cc-bee7-4758-be52-77d6dfc2c48e</Id>
+						<CompositionPlaylistId>urn:uuid:88bf3cd4-c691-4f28-9205-4769d92083ac</CompositionPlaylistId>
+						<AnnotationText>HotPursuit_TLR-F1_S_EN-he_IL_51_2K_XM_20150218_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3469</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:8ed29d72-7715-49b8-8c2f-9639eeffd4f7</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:a7e10797-103b-4b5f-840e-89b8fe34f73a</Id>
+						<CompositionPlaylistId>urn:uuid:536ecf08-556b-421a-8417-f3e13cfa810d</CompositionPlaylistId>
+						<AnnotationText>InsideOut_TLR-B-2D_S_EN-HE_IL_51_2K_DI_20141223_MPS_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3099</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:68ec6d8f-6997-4397-950c-d8efed3f986b</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:4094363a-28d7-4e83-8d4f-518458fb535e</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:9ad12673-2be4-4446-9f30-5033a6145e9b</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:db2a333a-81ca-4955-84ad-43ab24fcadf9</Id>
+					<Action>Back Lights Off</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:d9a5ac78-c04f-4dd0-b8a7-2d025ad9a17a</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:ed28feea-6aa1-46c8-a237-56cdd222f6d4</Id>
+						<CompositionPlaylistId>urn:uuid:abb0cc8d-b50d-4f6b-9f54-10dce6f5e709</CompositionPlaylistId>
+						<AnnotationText>Forum Film</AnnotationText>
+						<IntrinsicDuration>325</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:502c2dc2-766a-4ec0-9cad-85ef8a9f017c</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:295db6c0-1971-41aa-968c-211fded5b2f9</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:5331be76-b883-4866-8d12-f231178207c9</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:d625dcff-dd01-4b88-a9e2-cea73e22bb00</Id>
+					<Action>Volume 7.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:21635916-322c-4763-9ac5-21d4b7aacc0d</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:7e72a2c7-1c9f-4f3a-a1b4-34f3c07370a1</Id>
+						<CompositionPlaylistId>urn:uuid:aabb67d8-4d9d-44c3-8e3a-06adfb97f8a3</CompositionPlaylistId>
+						<AnnotationText>WOMAN-IN-GOLD_EN-HEB_S_2k_51_20150329_ELR_OV</AnnotationText>
+						<IntrinsicDuration>156800</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:20d7df6f-5cde-4a3c-bcdc-377f032680c8</Id>
+					<Action>Back Lights On</Action>
+					<Offset Kind="End">10680</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:9b8c109c-54dd-439e-a8f4-b888bc80c74a</Id>
+					<Action>Stop</Action>
+					<Offset Kind="End">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+	</EventList>
+</ShowPlaylist>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShowPlaylist>
+	<Id>urn:uuid:ac02aced-19e9-47b6-8f3b-ed2e604e57d5</Id>
+	<ShowTitleText>Tinkerbel 2D F</ShowTitleText>
+	<AnnotationText>Tinkerbel + SUB 2D F</AnnotationText>
+	<IssueDate>2015-03-31T14:33:30Z</IssueDate>
+	<Creator>Doremi Labs -- TMS 1.4.11</Creator>
+	<ContentVersion>
+		<Id>urn:uuid:91e46c97-6034-41c5-8a69-3aa2786b773c</Id>
+		<LabelText>urn:uuid:91e46c97-6034-41c5-8a69-3aa2786b773c</LabelText>
+	</ContentVersion>
+	<TriggerCueList>
+		<TriggerCue>
+			<Id>urn:uuid:7cd4ab4c-62af-4b17-a1c8-2185fa4c70e6</Id>
+			<TriggerName>Adv End</TriggerName>
+			<Action>Play</Action>
+			<Scope>urn:uuid:447043cb-2796-4e12-a18f-c775c1618eb9</Scope>
+		</TriggerCue>
+	</TriggerCueList>
+	<EventList>
+		<Event>
+			<Id>urn:uuid:447043cb-2796-4e12-a18f-c775c1618eb9</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:eaa66bb2-a3ca-4bdb-833c-0c0e83004ef4</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>360</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:7bccc801-492d-4183-8b09-a071b5da15de</Id>
+					<Action>Start Adv</Action>
+					<Offset Kind="Start">24</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:9547281c-0709-4b3b-9706-77f063f24aaa</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:4ff6e267-d45d-40d3-88d9-38dc861c7a45</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>192</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:0abf2700-6d8a-4577-b00e-aad6ab88b8f0</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:6b64671e-c08c-436d-8739-c0e6b1a9691b</Id>
+					<Action>Start</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:a32457c2-c5fb-40aa-875c-79393b4312b8</Id>
+					<Action>Volume 5.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:465bf668-411b-43a4-a610-e84b4b428298</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:1b126069-37f3-497c-ae20-28f7a5b4236e</Id>
+						<CompositionPlaylistId>urn:uuid:b3fb1f98-f064-4260-82d1-561c7bdd7360</CompositionPlaylistId>
+						<AnnotationText>Minions-No-Cast_TLR-B-2D_F_HE-XX_IL_51_2K_UP_20150309_MPS_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3460</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:3cd8f431-8e60-45aa-b33f-40763cc8b9fb</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:e92a7f7f-2d82-4ac3-a0d2-8e9de0e1d4dc</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:a539802d-765c-4cea-baf8-71ec9c8788c1</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:ed080b7c-8c1c-470e-880d-732c6fac30a9</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:7896fff5-fd62-41c3-83dd-134bbcc840f9</Id>
+						<CompositionPlaylistId>urn:uuid:fcc81d3c-ba85-4028-a97d-60f82b45fa7c</CompositionPlaylistId>
+						<AnnotationText>Peanuts_TLR-D-2D_S_EN-he_IL_51_2K_TCF_20140317_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>1336</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:ce343773-6142-4101-a1a3-40ec17d46c32</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:d0f5c686-514b-485d-9cc6-e4e0f6dca98a</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:68a0208f-0cc5-4f36-9ff1-63a9eb4343c8</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:01c5a14a-c3de-4f56-8c85-0366563292b6</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:46e3557b-a36e-4f81-86cf-4b1a6bc320b8</Id>
+						<CompositionPlaylistId>urn:uuid:fcc81d3c-ba85-4028-a97d-60f82b45fa7c</CompositionPlaylistId>
+						<AnnotationText>Peanuts_TLR-D-2D_S_EN-he_IL_51_2K_TCF_20140317_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>1336</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:c8f8feac-f930-4a5e-8c5b-23ae790b4634</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:225ff859-04e3-42dd-a968-d712d6fd461f</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:bef070bc-a1a7-42a1-b96d-197dea4c4395</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:417db202-344f-4dd8-9b56-b8fa4b8d2d16</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:2c7d58c0-26e1-41b9-a246-156ecbdec4eb</Id>
+						<CompositionPlaylistId>urn:uuid:05533825-108f-4e11-b56a-449be0a5c406</CompositionPlaylistId>
+						<AnnotationText>InsideOut_TLR-B-2D_S_HE-XX_IL_51_2K_DI_20141223_MPS_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3099</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:bdad369b-15a4-4859-98b3-6b80b0ae410f</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:b6f595cb-08a5-4b89-b259-ab16441d5723</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:2714eac8-a928-484e-84d9-164e2e9f5ba4</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:43bb6b4d-5a05-43db-a4ba-64502ef3e839</Id>
+					<Action>Volume 6.5</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:33154a71-376e-415a-9c6f-48683decbfe6</Id>
+					<Action>Back Lights Off</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:221c04b9-a0d9-4329-9104-79582efcf494</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:af297229-46fb-4d28-ba91-0ab7ec074d53</Id>
+						<CompositionPlaylistId>urn:uuid:abb0cc8d-b50d-4f6b-9f54-10dce6f5e709</CompositionPlaylistId>
+						<AnnotationText>Forum Film</AnnotationText>
+						<IntrinsicDuration>325</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:aacef702-79e5-4b79-a065-e9bd53fb43e6</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:a6038e8b-8af2-4a68-9345-b6bf3bbdf59a</Id>
+						<CompositionPlaylistId>urn:uuid:c8b4ad15-d880-4a3d-a1d0-15c7e522220a</CompositionPlaylistId>
+						<AnnotationText>TinkNeverBeast_FTR-2-2D_F-178_HE-HOH_IL_51_2K_DI_20150204_DUK_IOP_VF</AnnotationText>
+						<IntrinsicDuration>109931</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:8dd973ff-2bfc-487f-a1d8-2fccda462daf</Id>
+					<Action>Back Lights On</Action>
+					<Offset Kind="End">12480</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:a22b83c8-b73a-441f-81a8-641cb7959978</Id>
+					<Action>Stop</Action>
+					<Offset Kind="End">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+	</EventList>
+</ShowPlaylist>

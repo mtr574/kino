@@ -1,0 +1,85 @@
+﻿*{
+    background-repeat: no-repeat;
+}
+
+.icon3d
+{
+    background: url("../assets/icons/format/3d_s.png") no-repeat;
+}
+
+.iconEvent
+{
+    background: url("../assets/icons/format/event_s.png") no-repeat;
+}
+
+.iconReg
+{
+    background: url("../assets/icons/format/reg_s.png") no-repeat;
+}
+
+/* Button icons are 60x60(px)*/
+
+.renew_icon {
+    background-image: url(../assets/buttons/renew.png);
+    background-repeat: no-repeat;
+    background-position-x: 153px;
+    background-position-y: -4px;
+}
+
+.renew_icon_small {
+    background-image: url(../assets/buttons/renew.png);
+    background-repeat: no-repeat;
+    background-position-x: 64px;
+    background-position-y: -4px;
+}
+
+.add_icon {
+    background-image: url(../assets/buttons/add.png);
+    background-repeat: no-repeat;
+    background-position-x: 153px;
+    background-position-y: -5px;
+}
+
+.live_icon {
+    background-image: url(../assets/buttons/live.png);
+    background-repeat: no-repeat;
+    background-position-x: 153px;
+    background-position-y: -4px;
+}
+
+.clear_icon {
+    background-image: url(../assets/buttons/clear.png);
+    background-repeat: no-repeat;
+    background-position-x: 153px;
+    background-position-y: -4px;
+}
+
+.timer_icon {
+    background-image: url(../assets/buttons/timer.png);
+    background-repeat: no-repeat;
+    background-position-x: 95px;
+    background-position-y: -2px;
+}
+
+.sync_icon {
+    background-image: url(../assets/buttons/sync.png);
+    background-repeat: no-repeat;
+    background-position-x: 153px;
+    background-position-y: -4px;
+}
+
+.status_icon {
+    width: 45px;
+    height: 45px;
+    background-image: url(../assets/buttons/status.png);
+    background-repeat: no-repeat;
+    background-position-y: -4px;
+    float: right;
+}
+
+.edit_icon {
+    background-image: url(../assets/buttons/edit.png);
+    background-repeat: no-repeat;
+    background-position-x: 50px;
+    background-position-y: 0px;
+}

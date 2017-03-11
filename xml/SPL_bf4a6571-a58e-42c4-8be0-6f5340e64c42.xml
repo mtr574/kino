@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShowPlaylist>
+	<Id>urn:uuid:bf4a6571-a58e-42c4-8be0-6f5340e64c42</Id>
+	<ShowTitleText>Seventh_Son 3D S</ShowTitleText>
+	<AnnotationText>Seventh Son 3D S</AnnotationText>
+	<IssueDate>2015-03-27T19:43:37Z</IssueDate>
+	<Creator>Doremi Labs -- TMS 1.4.11</Creator>
+	<ContentVersion>
+		<Id>urn:uuid:c6ad777c-e3fd-4062-8fc8-90f5ddc7835f</Id>
+		<LabelText>urn:uuid:c6ad777c-e3fd-4062-8fc8-90f5ddc7835f</LabelText>
+	</ContentVersion>
+	<TriggerCueList>
+		<TriggerCue>
+			<Id>urn:uuid:d0c6b8dc-a4a4-439e-afeb-843e17d5ae87</Id>
+			<TriggerName>Adv End</TriggerName>
+			<Action>Play</Action>
+			<Scope>urn:uuid:7d669520-903f-4d6c-9fd6-8aaf082f81db</Scope>
+		</TriggerCue>
+	</TriggerCueList>
+	<EventList>
+		<Event>
+			<Id>urn:uuid:7d669520-903f-4d6c-9fd6-8aaf082f81db</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:9c87cdea-3b01-4daf-89e8-e758e77062b0</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>360</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:7a20db40-9a34-415a-b8ec-7f3a30c2ca0d</Id>
+					<Action>Start Adv</Action>
+					<Offset Kind="Start">24</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:dabc71f3-7235-4759-93be-268c57e4caa5</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:88438615-9369-47de-8454-2c15e5cba390</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>192</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:ff3258c2-4365-49e1-a3d3-8701fa0111d2</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:b5ad866d-5043-4879-bdcb-baccc5c4a9dd</Id>
+					<Action>Volume 5.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:adf30d9a-e753-40cc-b38c-5fad34c5eb5f</Id>
+					<Action>Start</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:048f9493-ec45-41e9-9bf6-d37801d28f58</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:58037c35-4982-4428-99d0-342ac69f5f6a</Id>
+						<CompositionPlaylistId>urn:uuid:5cba5093-61c5-4cc1-b251-9f5a87252fde</CompositionPlaylistId>
+						<AnnotationText>Tomorrowland_TLR-B-EMEA_S-220_EN-HE_IL_51_2K_DI_20150304_MPS_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3312</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:fa33849d-d3de-4c22-8cff-0beee71766d5</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:8f83c3d4-bb49-4185-a325-62cf6857ed2d</Id>
+						<CompositionPlaylistId>urn:uuid:1a64cea9-6c69-47be-93ee-f1b600586736</CompositionPlaylistId>
+						<AnnotationText>AvengersUltron_TLR-D_S_EN-HE_INT_51_2K_DI_20150302_TDC_IOP</AnnotationText>
+						<IntrinsicDuration>3034</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:fa7a58e9-c5e4-4af2-958a-08b57577315f</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:d1a59ae1-94db-49d7-ac04-0345e20544f7</Id>
+						<CompositionPlaylistId>urn:uuid:5e400b7e-b01e-4a23-a772-202cc6a11d3b</CompositionPlaylistId>
+						<AnnotationText>MadMaxFuryRoad_TLR-F2-2D_S_EN-he_IL_51_2K_WR_20141202_EKN_OV</AnnotationText>
+						<IntrinsicDuration>3436</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:03343027-d7b3-4be7-9042-9eac417164df</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:914f56ba-b2d6-4075-bc22-1785f31a588e</Id>
+						<CompositionPlaylistId>urn:uuid:b563b2c3-920e-4630-bc31-6cc09ec245c7</CompositionPlaylistId>
+						<AnnotationText>RunAllNight_TLR-F2_ENC_S_EN-he_IL_51_2K_WR_20141222_EKN_OV</AnnotationText>
+						<IntrinsicDuration>3562</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:a70b6a60-4536-4662-b05a-a6063762cbc9</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:4a7bc70e-228b-42f4-916b-6aa4a77e947d</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:943abde7-df5b-48d0-a900-be52b8d165c3</Id>
+					<Action>Mode - 3D</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:0950b9b1-0ff4-478b-9baf-535eb986982e</Id>
+					<Action>Dowser ON</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:e1a60455-2c35-43cb-9fa2-8bcc83ee2b65</Id>
+					<Action>DFC100 ON</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:df147ebf-b919-45a1-89c2-e4e3da45ac07</Id>
+					<Action>Volume 4.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:3d710016-a3a2-42a6-9eb5-f1db89ddba64</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:2a5987b2-d5cb-45df-9f0f-e3cc63923947</Id>
+						<CompositionPlaylistId>urn:uuid:b28f4934-a31b-4704-bb65-c83995d28b33</CompositionPlaylistId>
+						<AnnotationText>easyDCP_Demo_Composition</AnnotationText>
+						<IntrinsicDuration>997</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:5ac3feb9-4cfb-4243-a076-2826fc39bd40</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:a3186abc-dc39-46ab-ba83-37d5fcd8d65b</Id>
+						<AnnotationText>Black 3D</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>48 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:b5cba6dd-9706-4129-80ca-44f18d74735b</Id>
+					<Action>3D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:994e8093-541f-48b2-b40b-913541894b24</Id>
+					<Action>Back Lights Off</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:1d524df9-8cdc-4563-8c32-2b64ad4f4ee8</Id>
+					<Action>Volume 7.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:70e25963-5044-4664-9acd-5cade52beb75</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:897be7ed-ba85-417f-a132-0454cec9400e</Id>
+						<CompositionPlaylistId>urn:uuid:bb6fba5e-ad25-4a4c-be40-62e2737a4645</CompositionPlaylistId>
+						<AnnotationText>GLOBUS-LOGO_POL_F_HE-XX_INT_20_2K_20110607_TEU</AnnotationText>
+						<IntrinsicDuration>410</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:3e73657b-3da3-41e0-a7c4-05c8eae0f007</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:dbe4422a-ffc0-4e34-8a9a-e1e6efc0a8ee</Id>
+						<AnnotationText>Black 3D</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>48 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:592177c5-cffc-492d-b96a-d57d2c8eaeda</Id>
+					<Action>3D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:0ccf3084-3c6e-44de-8450-50370c74a85f</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:531b9558-117a-4b7a-86d5-c818d5041282</Id>
+						<CompositionPlaylistId>urn:uuid:6baa837a-fbf1-409b-95de-2186391ee08f</CompositionPlaylistId>
+						<AnnotationText>SEVENTH-SON_FTR-3D_S_EN-he_IL_51_2K_UP_20150213_DUK_IOP-3D_OV</AnnotationText>
+						<IntrinsicDuration>146933</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:ea588ae7-a35c-4b53-b417-fd3c1a9e714d</Id>
+					<Action>Back Lights On</Action>
+					<Offset Kind="End">12624</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:c68f00c3-48c8-4f7f-bb7a-30c2c9a9faec</Id>
+					<Action>Stop</Action>
+					<Offset Kind="End">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+	</EventList>
+</ShowPlaylist>

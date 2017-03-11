@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShowPlaylist>
+	<Id>urn:uuid:d7df5a7e-dec3-4e4d-82e8-9395fcce1ea6</Id>
+	<ShowTitleText>Insurgent 2D S</ShowTitleText>
+	<AnnotationText>Insurgent 2D S</AnnotationText>
+	<IssueDate>2015-03-25T15:21:36Z</IssueDate>
+	<Creator>Doremi Labs -- TMS 1.4.11</Creator>
+	<ContentVersion>
+		<Id>urn:uuid:964c08e5-1927-420a-b347-ca575f476368</Id>
+		<LabelText>urn:uuid:964c08e5-1927-420a-b347-ca575f476368</LabelText>
+	</ContentVersion>
+	<TriggerCueList>
+		<TriggerCue>
+			<Id>urn:uuid:c61f5392-5eda-45c4-84a1-5fe58aee8746</Id>
+			<TriggerName>Adv End</TriggerName>
+			<Action>Play</Action>
+			<Scope>urn:uuid:3a84f732-0b51-48f9-bd94-dea1d0c1c707</Scope>
+		</TriggerCue>
+	</TriggerCueList>
+	<EventList>
+		<Event>
+			<Id>urn:uuid:3a84f732-0b51-48f9-bd94-dea1d0c1c707</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:c7de88f6-a46c-46c3-8a9a-1be6ed488a8b</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>360</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:50cd8dc3-e015-4168-9450-8017c9fc78cf</Id>
+					<Action>Start Adv</Action>
+					<Offset Kind="Start">24</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:b6c34a19-4d0e-4978-adc4-1c0dc187a0a2</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:39ef9ee0-3100-443d-8c7a-1e0b3e98dc22</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>192</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:b426007d-1af3-4bd5-92e9-b71a6863f9da</Id>
+					<Action>Start</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:56565e75-0e0b-4adb-b1dc-930a9e89c3e0</Id>
+					<Action>Volume 5.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:9f9cfa60-a71f-42b2-a29d-587689945ad9</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:46b0cd67-c695-4cc4-8c23-7c2dc750c526</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:02f9aba7-917a-49d0-b20f-b74931f4bffd</Id>
+						<CompositionPlaylistId>urn:uuid:0be8f795-5c41-47e9-b442-e1ae42037d04</CompositionPlaylistId>
+						<AnnotationText>Furious-7_TLR-B_F_EN-he_IL_51_2K_UP_20150212_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3514</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:efe01464-6753-442e-885c-ab82831fe2d4</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:986f9da7-06a8-43a8-8aad-bbe851e9dc1f</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:ceffb8ef-3ab6-46cf-a3b9-6ee3933265e0</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:ee749c5b-c0e2-4a92-94eb-9cce2109afbc</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:043bd2b2-0a4f-4c60-aa8b-9309c4fa1904</Id>
+						<CompositionPlaylistId>urn:uuid:5cba5093-61c5-4cc1-b251-9f5a87252fde</CompositionPlaylistId>
+						<AnnotationText>Tomorrowland_TLR-B-EMEA_S-220_EN-HE_IL_51_2K_DI_20150304_MPS_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3312</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:0325a4e9-5f93-4d0d-a934-e124aa7a0a64</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:da0da677-4a02-4d3d-9cfd-c91faec32cde</Id>
+						<CompositionPlaylistId>urn:uuid:b563b2c3-920e-4630-bc31-6cc09ec245c7</CompositionPlaylistId>
+						<AnnotationText>RunAllNight_TLR-F2_ENC_S_EN-he_IL_51_2K_WR_20141222_EKN_OV</AnnotationText>
+						<IntrinsicDuration>3562</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:30718da3-d719-4ba2-af28-204965006738</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:4311d8e2-d562-4e54-96e2-c7bbf2da748a</Id>
+						<CompositionPlaylistId>urn:uuid:1a64cea9-6c69-47be-93ee-f1b600586736</CompositionPlaylistId>
+						<AnnotationText>AvengersUltron_TLR-D_S_EN-HE_INT_51_2K_DI_20150302_TDC_IOP</AnnotationText>
+						<IntrinsicDuration>3034</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:c74a5b5d-a2e6-46e1-9e93-233dfa5bef7d</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:77cff859-1c71-488e-ac4b-d5c4c131f05c</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:b0b349d8-6e2e-440e-81f2-c937c1b248cc</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:65e5ec39-4161-4c1c-b464-0eaa838fe2f4</Id>
+					<Action>Volume 7.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:d669eb73-2908-499e-a5ee-39f3cbc60295</Id>
+					<Action>Back Lights Off</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:6241c4a0-bcd2-44f0-8079-78f6baacbec4</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:c2276047-450a-47b1-ab91-41a63a20b28a</Id>
+						<CompositionPlaylistId>urn:uuid:1e77f58a-7cae-4b46-a4d6-81c0ae5fb584</CompositionPlaylistId>
+						<AnnotationText>Insurgent_FTR-2D_S_EN-HE_IL_51_2K_LION_20150302_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>171092</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:66a57cd2-2f66-4159-b68a-fd274fc87cd1</Id>
+					<Action>Back Lights On</Action>
+					<Offset Kind="End">15984</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:283a51a4-52f6-44e9-afd9-ecb3d4ad9eb8</Id>
+					<Action>Stop</Action>
+					<Offset Kind="End">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+	</EventList>
+</ShowPlaylist>

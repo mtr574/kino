@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShowPlaylist>
+	<Id>urn:uuid:94268303-0c99-4dfa-b910-3aeb07d63ddf</Id>
+	<ShowTitleText>Black_Or_White 2D S</ShowTitleText>
+	<AnnotationText>Black Or White 2D S</AnnotationText>
+	<IssueDate>2015-04-02T07:36:19Z</IssueDate>
+	<Creator>Doremi Labs -- TMS 1.4.11</Creator>
+	<ContentVersion>
+		<Id>urn:uuid:3474ac48-fb71-4a34-bc33-7bb855064352</Id>
+		<LabelText>urn:uuid:3474ac48-fb71-4a34-bc33-7bb855064352</LabelText>
+	</ContentVersion>
+	<TriggerCueList>
+		<TriggerCue>
+			<Id>urn:uuid:7385058a-5348-426c-befb-571238aee80e</Id>
+			<TriggerName>Adv End</TriggerName>
+			<Action>Play</Action>
+			<Scope>urn:uuid:1e35c337-0cc7-4468-81b9-0c6570195e08</Scope>
+		</TriggerCue>
+	</TriggerCueList>
+	<EventList>
+		<Event>
+			<Id>urn:uuid:1e35c337-0cc7-4468-81b9-0c6570195e08</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:f63e8844-78a6-4404-801f-ed46d9df9d7d</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>360</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:8a1ca6a6-c2b2-4240-bd6b-c41c65815e2f</Id>
+					<Action>Start Adv</Action>
+					<Offset Kind="Start">24</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:70eeef1d-0616-46f4-b150-b73ea54d4c28</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:8e84aae6-d0d2-42bd-bab2-12607b240e8c</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>192</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:c1964255-8937-4056-ad8d-223e009c9a42</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:1a41c1ed-39aa-4128-a85f-cd7a8aaaee8c</Id>
+					<Action>Start</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:9175cc59-2c6b-4dec-aad5-b0bbc92e2fa6</Id>
+					<Action>Volume 5.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:059b41ae-5c95-4b33-b0bd-516f2070dd9a</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:b55d74da-19da-45d3-b3f8-65d08eee22c2</Id>
+						<CompositionPlaylistId>urn:uuid:5cba5093-61c5-4cc1-b251-9f5a87252fde</CompositionPlaylistId>
+						<AnnotationText>Tomorrowland_TLR-B-EMEA_S-220_EN-HE_IL_51_2K_DI_20150304_MPS_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3312</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:a102a325-8c09-4466-831b-4781eef92383</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:3f1ca926-ae9f-40e9-aff2-b8235611be70</Id>
+						<CompositionPlaylistId>urn:uuid:88bf3cd4-c691-4f28-9205-4769d92083ac</CompositionPlaylistId>
+						<AnnotationText>HotPursuit_TLR-F1_S_EN-he_IL_51_2K_XM_20150218_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3469</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:7150b77b-af31-4441-be6f-50c73769e19c</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:438a86ba-f393-457b-9895-dda004b74915</Id>
+						<CompositionPlaylistId>urn:uuid:5a99275c-3665-44be-bb49-e0e0aed76636</CompositionPlaylistId>
+						<AnnotationText>Spy_TLR-1_S_EN-he_IL_51_2K_TCF_20150109_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>2687</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:786f2b0c-a6bd-47e7-a32c-940b9f1b0b2d</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:8a3a4954-3159-4daa-8dee-728d4cbd37c2</Id>
+						<CompositionPlaylistId>urn:uuid:2939cccb-c652-4c18-b8ee-a304a90df8ca</CompositionPlaylistId>
+						<AnnotationText>WomanInGold_TLR-1_S_EN-HEB_INT-TD_51-HI_2K_TWC_20150118_ELR</AnnotationText>
+						<IntrinsicDuration>3492</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:a5f73707-a51f-4a9e-9857-229c9265fd20</Id>
+					<Action>Back Lights Off</Action>
+					<Offset Kind="End">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:4c697e23-e036-486d-9829-bb2860490e46</Id>
+					<Action>Volume 7.0</Action>
+					<Offset Kind="End">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:28cca20f-680c-4877-9414-f9327bf91c2a</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:f804bb9a-0363-466c-ad09-c7dde32f6124</Id>
+						<CompositionPlaylistId>urn:uuid:a9aaf098-ed83-4227-85eb-d9f045dcb6b1</CompositionPlaylistId>
+						<AnnotationText>BlackOrWhite_FTR_S_EN-HE_51_2K_ST_20150105_FAC_OV</AnnotationText>
+						<IntrinsicDuration>174302</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:a10b2684-0573-4ad2-9538-162acbce1242</Id>
+					<Action>Back Lights On</Action>
+					<Offset Kind="End">5448</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:72ee7585-02c3-4e78-a929-bdc1cdf7da1f</Id>
+					<Action>Stop</Action>
+					<Offset Kind="End">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+	</EventList>
+</ShowPlaylist>

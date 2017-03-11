@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShowPlaylist>
+	<Id>urn:uuid:f96300d3-1114-45c2-b514-fa90281a389f</Id>
+	<ShowTitleText>Fast&amp;Furious 2D S</ShowTitleText>
+	<AnnotationText>Fast&amp;Furious 2D S</AnnotationText>
+	<IssueDate>2015-03-31T15:56:52Z</IssueDate>
+	<Creator>Doremi Labs -- TMS 1.4.11</Creator>
+	<ContentVersion>
+		<Id>urn:uuid:6ca17432-7170-49ba-afe0-2028e4ebb29f</Id>
+		<LabelText>urn:uuid:6ca17432-7170-49ba-afe0-2028e4ebb29f</LabelText>
+	</ContentVersion>
+	<TriggerCueList>
+		<TriggerCue>
+			<Id>urn:uuid:f454fd84-43f6-4818-93e0-5ca8924e894c</Id>
+			<TriggerName>Adv End</TriggerName>
+			<Action>Play</Action>
+			<Scope>urn:uuid:c4f4d793-a73b-4bc7-a08c-c8bf26360e54</Scope>
+		</TriggerCue>
+	</TriggerCueList>
+	<EventList>
+		<Event>
+			<Id>urn:uuid:c4f4d793-a73b-4bc7-a08c-c8bf26360e54</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:7af481d7-25b0-4dd7-84cb-022a93db75ac</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>360</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:8adbcf40-e1b7-4719-8510-f1eb22863c6c</Id>
+					<Action>Start Adv</Action>
+					<Offset Kind="Start">24</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:0c068e01-e4be-453a-8976-6f9fb3a92802</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:d4a0d291-f08d-4760-9875-c624126ffa17</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>192</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:edaeb261-2d32-480c-a2b2-70848b73b601</Id>
+					<Action>Start</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:db102c42-77e5-498d-b200-6ee7a102bea7</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:a377c78f-1578-48f2-809a-9a210b01bbfa</Id>
+					<Action>Volume 5.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:f15b3a09-5136-495d-a204-4f56492cc9e0</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:cbcadca0-ef16-4773-8d05-75b590d4f203</Id>
+						<CompositionPlaylistId>urn:uuid:23220d65-aa82-4c69-b3e4-08823353e5b1</CompositionPlaylistId>
+						<AnnotationText>MjPt2LogoReveal_TSR-1_S_EN-HEB-CA_51_2K_LION_20150322_OV</AnnotationText>
+						<IntrinsicDuration>1115</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:225e98eb-f355-4e4a-a0e3-446faa809bc2</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:99b2f147-6b70-4748-8dd4-3a736b929dae</Id>
+						<CompositionPlaylistId>urn:uuid:ae6678e1-97c0-4dc8-883f-3d25f1c3be4e</CompositionPlaylistId>
+						<AnnotationText>TheTransporterRefueled_TLR-US-01_S_EN-HEB_51_2K_EC_20150325_elr_OV</AnnotationText>
+						<IntrinsicDuration>2255</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:58371497-4332-4b63-b381-30f7fa707ecb</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:14db1ffa-1317-4052-bc20-31fb42ce3ca4</Id>
+						<CompositionPlaylistId>urn:uuid:1a64cea9-6c69-47be-93ee-f1b600586736</CompositionPlaylistId>
+						<AnnotationText>AvengersUltron_TLR-D_S_EN-HE_INT_51_2K_DI_20150302_TDC_IOP</AnnotationText>
+						<IntrinsicDuration>3034</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:c27401c6-447f-4be8-9689-d38e603a2d6e</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:bc70dcf6-28e2-4130-a4d4-cffe0b0525d3</Id>
+						<CompositionPlaylistId>urn:uuid:b563b2c3-920e-4630-bc31-6cc09ec245c7</CompositionPlaylistId>
+						<AnnotationText>RunAllNight_TLR-F2_ENC_S_EN-he_IL_51_2K_WR_20141222_EKN_OV</AnnotationText>
+						<IntrinsicDuration>3562</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:df0615c5-3669-4f8d-be24-e131e294eb8b</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:ca28cc2a-320d-4d02-87ec-14687c9eccba</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:1edd1c97-798f-4288-aa3a-4c26a8275b8e</Id>
+					<Action>Back Lights Off</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:f7d8e283-2ff6-4321-8e12-b2dbea524d83</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:5dc94d6e-db0c-4cdd-8780-0c99f45c8d4c</Id>
+					<Action>Volume 7.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:26f67c60-35f0-48ed-acb7-31a17ae034f8</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:17c4f775-fa12-450a-bacf-f8eda4672cb3</Id>
+						<CompositionPlaylistId>urn:uuid:45e45cbd-8df5-444a-a4d8-5d0bbab2ca6d</CompositionPlaylistId>
+						<AnnotationText>MICHEL-RODRIGEZ-CVISH-SHESH-F-ENG-HEB-2015-0329-ELR-OV</AnnotationText>
+						<IntrinsicDuration>266</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:2653dd8a-3489-4214-a378-f8e838321eb4</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:c8202e8d-e27f-4e4e-bf50-904f23301107</Id>
+						<CompositionPlaylistId>urn:uuid:bb6fba5e-ad25-4a4c-be40-62e2737a4645</CompositionPlaylistId>
+						<AnnotationText>GLOBUS-LOGO_POL_F_HE-XX_INT_20_2K_20110607_TEU</AnnotationText>
+						<IntrinsicDuration>410</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:5c14b14b-900a-4a37-9304-984e5862c230</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:343b31ed-16db-44c4-b08f-74b32016ca3b</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:fabddd40-24b2-452e-8cc3-3eca4ebb9291</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:b8714159-fbe6-4d2e-991c-1c870cefe38f</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:2f7bfd9c-c798-415e-9903-ba906da08bf3</Id>
+						<CompositionPlaylistId>urn:uuid:a17d81ac-92aa-44bf-84ed-5bca906e61cc</CompositionPlaylistId>
+						<AnnotationText>FastFurious7_FTR-6DX-ROW-2D_S_EN-HE_IL_51-DBOX_2K_UP_20150316_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>197727</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:626d5a4d-ecae-4e28-bed0-8d610bc465e9</Id>
+					<Action>Back Lights On</Action>
+					<Offset Kind="End">12360</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:3f3aae4e-0f73-4f0b-8a45-9d4fdc6287cd</Id>
+					<Action>Stop</Action>
+					<Offset Kind="End">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+	</EventList>
+</ShowPlaylist>

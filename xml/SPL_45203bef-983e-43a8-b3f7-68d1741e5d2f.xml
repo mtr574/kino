@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShowPlaylist>
+	<Id>urn:uuid:45203bef-983e-43a8-b3f7-68d1741e5d2f</Id>
+	<ShowTitleText>Home He + Sub 2D F</ShowTitleText>
+	<AnnotationText>Home He + Sub 2D F</AnnotationText>
+	<IssueDate>2015-03-31T14:29:46Z</IssueDate>
+	<Creator>Doremi Labs -- TMS 1.4.11</Creator>
+	<ContentVersion>
+		<Id>urn:uuid:984c36c7-3686-494f-b59b-0c98374d6d0a</Id>
+		<LabelText>urn:uuid:984c36c7-3686-494f-b59b-0c98374d6d0a</LabelText>
+	</ContentVersion>
+	<TriggerCueList>
+		<TriggerCue>
+			<Id>urn:uuid:8152cde4-2469-4e43-9dd4-0a07d9c1cd87</Id>
+			<TriggerName>Adv End</TriggerName>
+			<Action>Play</Action>
+			<Scope>urn:uuid:6ee94b86-1a85-4159-8ca1-9d7633361c7b</Scope>
+		</TriggerCue>
+	</TriggerCueList>
+	<EventList>
+		<Event>
+			<Id>urn:uuid:6ee94b86-1a85-4159-8ca1-9d7633361c7b</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:0113c844-d716-4cc1-9b70-ec5055c1c0bc</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>360</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:23b8da8b-ae57-4d83-aa4e-4ddbac7b4750</Id>
+					<Action>Start Adv</Action>
+					<Offset Kind="Start">24</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:a0f2107f-40d3-4ac7-8f7a-b35bb9981f25</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:e423824c-e9e3-43c9-91e0-47b12378dcca</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>192</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:c9762aaf-7dfc-472e-b2aa-dfea2b579508</Id>
+					<Action>Start</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:f54851b4-1a0c-4f30-aa15-7e5311333a62</Id>
+					<Action>Volume 5.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:02cbb1d2-e03a-492a-bc2e-2c831c2d9982</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:01cf5c5f-ff21-49a2-8944-859742a9e68a</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:3aa5edab-ffe1-4366-8ea8-05e70516f7b7</Id>
+						<CompositionPlaylistId>urn:uuid:b3fb1f98-f064-4260-82d1-561c7bdd7360</CompositionPlaylistId>
+						<AnnotationText>Minions-No-Cast_TLR-B-2D_F_HE-XX_IL_51_2K_UP_20150309_MPS_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3460</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:a7a682fe-f0e7-4fc9-bef2-10639cdecd1c</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:f207e625-ddc1-470f-b174-8028ea39cb28</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:c6cfff47-1e9e-4286-a701-b18a5aa86c77</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:b960114d-f16c-4141-b9cd-59bd7ee95341</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:09ee7b95-de3c-4a02-98df-45763088dc6a</Id>
+						<CompositionPlaylistId>urn:uuid:fcc81d3c-ba85-4028-a97d-60f82b45fa7c</CompositionPlaylistId>
+						<AnnotationText>Peanuts_TLR-D-2D_S_EN-he_IL_51_2K_TCF_20140317_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>1336</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:ea25c19b-a507-4d2d-a418-cc54f5a64e6e</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:d30408fe-f5b1-4577-bc87-143223670562</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:bf079559-aa42-4c17-83eb-3097f79e36c2</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:9c39c948-49cb-459c-8f15-e274bb958a20</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:3856bca2-53b6-46a2-92b7-ddf6df568ed3</Id>
+						<CompositionPlaylistId>urn:uuid:637fa999-2aa8-43c7-aada-ebfab035c49c</CompositionPlaylistId>
+						<AnnotationText>SHAUNTHESHEEP_TLR-2D-TEASER_F_EN-HE_51_2K_20140616_ELR_OV</AnnotationText>
+						<IntrinsicDuration>1379</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:7c003934-64b3-4567-96f7-4db3803f313c</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:a8de78ed-f8c8-44ae-b388-e51acbfbe9f7</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:eb41ba51-f6bd-4285-b42e-83d8c0abf73b</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:40f20de0-ac66-4c90-b96b-d81fbeae9855</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:3b818fc7-931f-4ca7-a19e-21c0f62f45fb</Id>
+						<CompositionPlaylistId>urn:uuid:05533825-108f-4e11-b56a-449be0a5c406</CompositionPlaylistId>
+						<AnnotationText>InsideOut_TLR-B-2D_S_HE-XX_IL_51_2K_DI_20141223_MPS_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3099</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:aa92f034-514e-4f7d-af33-d23c012bf670</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:de614dfe-0ed8-4591-afde-3c810c6275c8</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:431038a3-1796-4c57-a53a-51d69a16d7b1</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:fa28b1d3-605d-4117-98f3-6f5eb2234a9f</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:a9fff508-bbed-4afd-838e-73fa67e23968</Id>
+						<CompositionPlaylistId>urn:uuid:abb0cc8d-b50d-4f6b-9f54-10dce6f5e709</CompositionPlaylistId>
+						<AnnotationText>Forum Film</AnnotationText>
+						<IntrinsicDuration>325</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:23b3fc49-7197-4259-a4ba-6900f44dc120</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:bd1f168a-3a8d-48ca-a97c-452a80155d32</Id>
+						<CompositionPlaylistId>urn:uuid:81038515-deaf-4bfd-81b7-f534a053f4ff</CompositionPlaylistId>
+						<AnnotationText>MATALON-XSN_F_EN-HE_51_2K_MTL_20110920_MOD_OV</AnnotationText>
+						<IntrinsicDuration>491</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:8d38cb3d-5066-4849-88db-83da56f1c76e</Id>
+					<Action>Back Lights Off</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:49a8bd24-ae59-45c8-94e4-2cfa47a3c02f</Id>
+					<Action>Volume 6.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:28d3a1fd-099f-418c-8c6c-89a4bc4229a0</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:7c414292-23d4-4bd9-a441-41d2ddb6d598</Id>
+						<CompositionPlaylistId>urn:uuid:661ea080-d31a-4c23-a0c5-72153d139d43</CompositionPlaylistId>
+						<AnnotationText>Home_FTR_F_HE-HOH_IL_51_2K_TCF_20150304_DUK_IOP_VF</AnnotationText>
+						<IntrinsicDuration>135933</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:92f15ffa-6d18-4498-900f-1fda837c3564</Id>
+					<Action>Back Lights On</Action>
+					<Offset Kind="End">14592</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:8f9662cd-353f-4c8e-80ed-c9f299f0a711</Id>
+					<Action>Stop</Action>
+					<Offset Kind="End">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+	</EventList>
+</ShowPlaylist>

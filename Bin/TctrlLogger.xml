@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TctrlLogger</name>
+    </assembly>
+    <members>
+        <member name="M:TctrlLogger.Logger.#ctor">
+            <summary>
+            Creates Logger file
+            </summary>
+        </member>
+        <member name="M:TctrlLogger.Logger.#ctor(System.String)">
+            <summary>
+            Creates Logger file with specified save path;
+            </summary>
+            <param name="savePath">Defines log file save path</param>
+        </member>
+        <member name="M:TctrlLogger.Logger.w(System.String,System.String)">
+            <summary>
+            Writes new log data to a log file;
+            </summary>
+            <param name="i">Input data (string)</param>
+            <param name="type">Data log type (Default = Info)</param>
+            <returns>Success = True, Failed = False</returns>
+        </member>
+        <member name="M:TctrlLogger.Logger.r(System.String)">
+            <summary>
+            Return log file data from specified date;
+            </summary>
+            <param name="d">Date format: DD/MM/YYYY</param>
+            <returns>Log data (string)</returns>
+        </member>
+    </members>
+</doc>

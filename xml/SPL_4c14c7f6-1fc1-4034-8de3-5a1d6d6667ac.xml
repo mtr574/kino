@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShowPlaylist>
+	<Id>urn:uuid:4c14c7f6-1fc1-4034-8de3-5a1d6d6667ac</Id>
+	<ShowTitleText>Marigold_Hotel 2D S</ShowTitleText>
+	<AnnotationText>Marigold Hotel 2D S</AnnotationText>
+	<IssueDate>2015-03-28T16:36:49Z</IssueDate>
+	<Creator>Doremi Labs -- TMS 1.4.11</Creator>
+	<ContentVersion>
+		<Id>urn:uuid:f8c607ed-c92d-401e-bf59-5b7cfb0a6c9b</Id>
+		<LabelText>urn:uuid:f8c607ed-c92d-401e-bf59-5b7cfb0a6c9b</LabelText>
+	</ContentVersion>
+	<TriggerCueList>
+		<TriggerCue>
+			<Id>urn:uuid:4c17041c-7e9e-4f36-be7e-04dbf2c08b2b</Id>
+			<TriggerName>Adv End</TriggerName>
+			<Action>Play</Action>
+			<Scope>urn:uuid:fc373f7a-935e-4019-80e9-afa8915972fe</Scope>
+		</TriggerCue>
+	</TriggerCueList>
+	<EventList>
+		<Event>
+			<Id>urn:uuid:fc373f7a-935e-4019-80e9-afa8915972fe</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:8a044c63-fbed-4d13-8263-42c75b981f80</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>360</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:bedaa3df-c06d-4046-a3c5-efcf90ee8cb6</Id>
+					<Action>Start Adv</Action>
+					<Offset Kind="Start">24</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:dc4d94ef-78ed-4356-9912-6b6f9327aeac</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:d1f3e43c-9b48-475f-9c16-5418a44e6753</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>192</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:c9f03ef4-ec7d-4ee4-b2bd-ff9335e208d0</Id>
+					<Action>Start</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:9606c73c-2fed-4981-8e65-9dc7b4295798</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:d797d501-f791-42c5-934b-860fe1dbe663</Id>
+					<Action>Volume 5.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:6d2044ef-6ae6-4ba6-95e0-b5dac978d8a5</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:2393b087-40dd-4938-afd2-efb2f189acff</Id>
+						<CompositionPlaylistId>urn:uuid:030dddf3-0424-4cad-9ec3-97e7c8dfb903</CompositionPlaylistId>
+						<AnnotationText>BACK-or-WHITE_TLR_S_HE-HE_51_2K_20141225_FAC_OV</AnnotationText>
+						<IntrinsicDuration>3303</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:1a58bc49-9cac-4990-a58e-dfaee93b2bea</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:659c8f53-b4d4-42f9-ae3f-877fd5e032bf</Id>
+						<CompositionPlaylistId>urn:uuid:88bf3cd4-c691-4f28-9205-4769d92083ac</CompositionPlaylistId>
+						<AnnotationText>HotPursuit_TLR-F1_S_EN-he_IL_51_2K_XM_20150218_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3469</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:d1d29f7e-3dd4-43b4-ad21-e2ebbf2ce6aa</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:f2273226-bcad-4414-833b-6b4a37cead2f</Id>
+						<CompositionPlaylistId>urn:uuid:2939cccb-c652-4c18-b8ee-a304a90df8ca</CompositionPlaylistId>
+						<AnnotationText>WomanInGold_TLR-1_S_EN-HEB_INT-TD_51-HI_2K_TWC_20150118_ELR</AnnotationText>
+						<IntrinsicDuration>3492</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:dc5aa03e-c2ce-4bc4-b8eb-d14dced7bb72</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:9cdda05e-c685-4e8c-b1db-ec19d35a03f3</Id>
+						<CompositionPlaylistId>urn:uuid:5a99275c-3665-44be-bb49-e0e0aed76636</CompositionPlaylistId>
+						<AnnotationText>Spy_TLR-1_S_EN-he_IL_51_2K_TCF_20150109_DUK_IOP_OV</AnnotationText>
+						<IntrinsicDuration>2687</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:cf3c33ae-e877-491e-95ea-b440b3274fe5</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:37ca3740-0cd7-49fd-aa62-57118505872e</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:9e616ded-fdd5-4d51-be43-41be60fc5e9d</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:6e187565-5d29-43fa-8057-87d772baa065</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:7b586450-d1e1-41e3-a094-472dda8b235a</Id>
+						<CompositionPlaylistId>urn:uuid:abb0cc8d-b50d-4f6b-9f54-10dce6f5e709</CompositionPlaylistId>
+						<AnnotationText>Forum Film</AnnotationText>
+						<IntrinsicDuration>325</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:65a0dba6-c1bf-4f09-acf2-7b6195c522c9</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:054d2e5d-0a05-43ae-944b-6e230322c827</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:952ed588-e7a3-4084-8cf2-b70b412ce002</Id>
+					<Action>Back Lights Off</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:64b9d6c7-3ff9-4306-a62d-3300181dc013</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:38a11a39-250f-4f72-835c-d7f7ce09e6b3</Id>
+					<Action>Volume 7.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:2bce66ca-e5f4-46d1-a2b4-a330978756ca</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:58313306-1abd-40f4-ae4e-e9b6bbfcb2c0</Id>
+						<CompositionPlaylistId>urn:uuid:d882c230-da21-4b10-9690-d6041b9aff4d</CompositionPlaylistId>
+						<AnnotationText>MATALON-XSN_S_EN-HE_51_2K_MTL_20110923_MOD_OV</AnnotationText>
+						<IntrinsicDuration>491</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:fa7e19d6-339e-4f52-a38a-9cb64bc27612</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:93d12bbe-68f3-4da4-ab10-a822c989fc85</Id>
+						<CompositionPlaylistId>urn:uuid:d07c05ab-4a6f-4d89-82e8-12eb1edd1266</CompositionPlaylistId>
+						<AnnotationText>SecondBEMH_FTR_S_EN-HE_IL_51_2K_TCF_20150121_EKN_IOP_OV</AnnotationText>
+						<IntrinsicDuration>177090</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:fc21e60f-5f66-45b6-9062-e02853845917</Id>
+					<Action>Back Lights On</Action>
+					<Offset Kind="End">9144</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:ceadce60-45d8-4281-8c6d-286069bafae4</Id>
+					<Action>Stop</Action>
+					<Offset Kind="End">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+	</EventList>
+</ShowPlaylist>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShowPlaylist>
+	<Id>urn:uuid:4cf6285e-546d-4b00-b94c-8e3f6fad2aef</Id>
+	<ShowTitleText>Sponge_Bob + SUB 2D F</ShowTitleText>
+	<AnnotationText>Sponge Bob + SUB 2D F</AnnotationText>
+	<IssueDate>2015-03-31T14:35:04Z</IssueDate>
+	<Creator>Doremi Labs -- TMS 1.4.11</Creator>
+	<ContentVersion>
+		<Id>urn:uuid:bf099513-b5d1-4185-869c-f48b08ecb8e3</Id>
+		<LabelText>urn:uuid:bf099513-b5d1-4185-869c-f48b08ecb8e3</LabelText>
+	</ContentVersion>
+	<TriggerCueList>
+		<TriggerCue>
+			<Id>urn:uuid:5facc5fe-2874-46f2-b737-2b882916ed54</Id>
+			<TriggerName>Adv End</TriggerName>
+			<Action>Play</Action>
+			<Scope>urn:uuid:dbf4a99b-6527-4d3a-ada8-6d355d672c97</Scope>
+		</TriggerCue>
+	</TriggerCueList>
+	<EventList>
+		<Event>
+			<Id>urn:uuid:dbf4a99b-6527-4d3a-ada8-6d355d672c97</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:db2bdbb1-48e1-4cbb-b6a8-1f2028ae6000</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>360</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:f35f9962-0b01-435a-a25f-ac380cf62c12</Id>
+					<Action>Start Adv</Action>
+					<Offset Kind="Start">24</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:52b8e62c-b8d3-41a3-ae44-671c61436bfb</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:24ab969d-2109-4e0a-9ad3-45908d976676</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>192</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:c7ce7bef-8af3-47e1-9cc2-23181dafe100</Id>
+					<Action>2D Scope</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:bd80be73-90af-4225-9ddc-a80f517fd519</Id>
+					<Action>Start</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:ac2b8496-2b26-4db9-bee8-e485563cd602</Id>
+					<Action>Volume 5.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:c17eeaab-712e-4c45-b951-c8c131fb8b76</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:3b3296fd-ae3b-4293-b38b-5d1467c382d6</Id>
+						<CompositionPlaylistId>urn:uuid:05533825-108f-4e11-b56a-449be0a5c406</CompositionPlaylistId>
+						<AnnotationText>InsideOut_TLR-B-2D_S_HE-XX_IL_51_2K_DI_20141223_MPS_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3099</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:71d29818-212d-4786-94b0-42e57a6dc9c1</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:2c816652-5dd1-47ba-bfde-06ab65adcfb1</Id>
+						<CompositionPlaylistId>urn:uuid:27cdbe61-3848-465a-a9a1-22a8e234eb1a</CompositionPlaylistId>
+						<AnnotationText>Home_TLR-4-2D_S_HE-XX_IL_51_2K_TCF_20141119_DWA</AnnotationText>
+						<IntrinsicDuration>2527</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:4f8be395-65c6-4759-a4fe-fdf3abfe3ba4</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:9f18828c-575c-482a-a622-6118f8760fd9</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:a9aa8747-a3c2-4447-a7d9-19ca4d8f5f97</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:f69eff3e-6c17-42cd-83e3-5a1999215214</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:3971ecca-faec-4cb7-aa2b-9d1e898e0129</Id>
+						<CompositionPlaylistId>urn:uuid:637fa999-2aa8-43c7-aada-ebfab035c49c</CompositionPlaylistId>
+						<AnnotationText>SHAUNTHESHEEP_TLR-2D-TEASER_F_EN-HE_51_2K_20140616_ELR_OV</AnnotationText>
+						<IntrinsicDuration>1379</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:26b73105-80ed-49c2-afd1-470a2ca52125</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:38cc1dc8-0ae5-4df3-b0ba-37430a94523e</Id>
+						<CompositionPlaylistId>urn:uuid:b3fb1f98-f064-4260-82d1-561c7bdd7360</CompositionPlaylistId>
+						<AnnotationText>Minions-No-Cast_TLR-B-2D_F_HE-XX_IL_51_2K_UP_20150309_MPS_IOP_OV</AnnotationText>
+						<IntrinsicDuration>3460</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:98ccfd31-f0f3-4363-9d80-d317d2605a21</Id>
+			<ElementList>
+				<MainElement>
+					<Pattern>
+						<Id>urn:uuid:05b1fa37-4483-4d48-a821-7ba8678d3253</Id>
+						<AnnotationText>Black</AnnotationText>
+						<Duration>120</Duration>
+						<EditRate>24 1</EditRate>
+						<FrameRate>24 1</FrameRate>
+					</Pattern>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:b50c226c-5f7a-4ca0-b5c1-9988547dc621</Id>
+					<Action>2D Flat</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:e04fd3c8-b856-478f-9ad7-49606dd64bc4</Id>
+					<Action>Volume 6.0</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:6c8e1d46-0462-4ab8-90ce-ac5a6cc3031c</Id>
+					<Action>Back Lights Off</Action>
+					<Offset Kind="Start">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:1bfd25d4-75c2-4863-8e15-94dfa0f9c377</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:b50d438b-ef74-4696-bb08-9f7797597b27</Id>
+						<CompositionPlaylistId>urn:uuid:bb6fba5e-ad25-4a4c-be40-62e2737a4645</CompositionPlaylistId>
+						<AnnotationText>GLOBUS-LOGO_POL_F_HE-XX_INT_20_2K_20110607_TEU</AnnotationText>
+						<IntrinsicDuration>410</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+			</ElementList>
+		</Event>
+		<Event>
+			<Id>urn:uuid:2c9d5633-2b1c-456a-a760-cd322de5cb5e</Id>
+			<ElementList>
+				<MainElement>
+					<Composition>
+						<Id>urn:uuid:18edbf3f-ff4a-4dd9-82c8-25012cc19b36</Id>
+						<CompositionPlaylistId>urn:uuid:8eecb964-6122-4e34-ab80-625491bdce35</CompositionPlaylistId>
+						<AnnotationText>SPONGE-BOB-2-2D_FTR-2_F_HE-HE_IL_51_2K_PC_20150211_DUK_IOP_VF</AnnotationText>
+						<IntrinsicDuration>133838</IntrinsicDuration>
+						<EditRate>24 1</EditRate>
+					</Composition>
+				</MainElement>
+				<AutomationCue>
+					<Id>urn:uuid:5ca09ef4-8be1-4826-bab3-8fcab742ac0d</Id>
+					<Action>Back Lights On</Action>
+					<Offset Kind="End">13704</Offset>
+				</AutomationCue>
+				<AutomationCue>
+					<Id>urn:uuid:ffa999f2-ab65-41da-997a-532007fc43bd</Id>
+					<Action>Stop</Action>
+					<Offset Kind="End">0</Offset>
+				</AutomationCue>
+			</ElementList>
+		</Event>
+	</EventList>
+</ShowPlaylist>
